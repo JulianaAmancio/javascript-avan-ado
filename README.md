@@ -1,4 +1,4 @@
-# javascritp-avan-ado
+# javascript-avançado
 Treinando java script
 
 ### Desafio OMMA JS I
