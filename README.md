@@ -1,5 +1,5 @@
 # javascritp-avan-ado
-Treinando java scrip
+Treinando java script
 
 ### Desafio OMMA JS I
 1. Precisamos armazenar o nome da empresa, e sempre que for executado o
